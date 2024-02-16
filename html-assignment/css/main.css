@@ -1,0 +1,42 @@
+/* this is a css comment */
+body{
+    background-color: blueviolet;
+    color: white;
+}
+
+h1, h2 {
+    color: black;
+}
+
+article h2 {
+    color: rgb(85, 182, 231);
+}
+
+section { /*0001*/
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/* use dot for classes */
+.products { /*0010*/
+    font-family:Impact, hattenscheiler;
+}
+
+/* use hashtag for ID */
+#prod { /*0100*/
+    font-family: 'Courier New', Courier, monospace;
+}
+
+main p { /*0020*/
+    font-style: italic;
+}
+
+main > p { /*0002*/
+    font-weight: bold;
+}
+
+body main.horses nav ul li.active #new em
+
+/* use haschtag for ID */
+header {
+
+}
